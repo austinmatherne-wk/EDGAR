@@ -2232,7 +2232,7 @@ def removeElementsWithDocumentReference(modelXbrl, document):
 __pluginInfo__ = {
     'name': 'Edgar Renderer',
     'version': VERSION,
-    'description': "This plug-in implements U.S. SEC Edgar Renderer.  Arelle version at SEC: 2.38.9 ",
+    'description': "This plug-in implements U.S. SEC Edgar Renderer.  Arelle version at SEC: 2.39.8 ",
     'license': 'Apache-2',
     'author': 'U.S. SEC Employees and Mark V Systems Limited',
     'copyright': '(c) Portions by SEC Employees not subject to domestic copyright, otherwise (c) Copyright 2015 Mark V Systems Limited, All rights reserved.',
